@@ -87,10 +87,6 @@ The project requires the following Python packages, listed in `requirements.txt`
 
 Feel free to fork this repository, submit issues, or create pull requests to improve the project. Contributions to enhance topic modeling, add more data fields, or optimize API calls are welcome!
 
-## License
-
-[Add your license here, e.g., MIT, GPL, etc., if applicable. If none, state that the code is provided as-is without a license.]
-
 ## Contact
 
 For questions or support, please open an issue in the repository or contact NicholasRico.
